@@ -1,3 +1,5 @@
-http://example.com/tags/index.html
-http://example.com/2023/04/09/hello-world/
-http://example.com/
+https://github.com/leVTiO/link/index.html
+https://github.com/leVTiO/categories/index.html
+https://github.com/leVTiO/tags/index.html
+https://github.com/leVTiO/2023/04/09/hello-world/
+https://github.com/leVTiO
