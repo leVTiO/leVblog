@@ -1,5 +1,5 @@
-https://github.com/leVTiO/link/index.html
-https://github.com/leVTiO/categories/index.html
-https://github.com/leVTiO/tags/index.html
-https://github.com/leVTiO/2023/04/09/hello-world/
-https://github.com/leVTiO
+https://blog.levtio.top/link/index.html
+https://blog.levtio.top/categories/index.html
+https://blog.levtio.top/tags/index.html
+https://blog.levtio.top/2023/04/09/hello-world/
+https://blog.levtio.top/
