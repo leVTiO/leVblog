@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.levtio.top/2023/05/17/nacos/</loc>
+    
+    <lastmod>2023-05-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.levtio.top/link/index.html</loc>
     
     <lastmod>2023-04-17</lastmod>
@@ -40,7 +49,7 @@
 
   <url>
     <loc>https://blog.levtio.top/</loc>
-    <lastmod>2023-04-18</lastmod>
+    <lastmod>2023-05-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
